@@ -11,7 +11,7 @@ See [“Document Dewarping with Control Points”](https://arxiv.org/pdf/2203.10
 # Quick Start
 
 ```bash
-python perturbed_images_generation_multiProcess.py            --path=./scan/new/ --bg_path=./background/ --output_path=./output/`
+python perturbed_images_generation_multiProcess.py            --path=./scan/new/ --bg_path=./background/ --output_path=./output/
        perturbed_images_generation_multiProcess_addition1.py 
        perturbed_images_generation_multiProcess_addition2.py 
        perturbed_images_generation_multiProcess_addition3.py 
